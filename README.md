@@ -4,3 +4,4 @@
 
 支持less，jsx
 
+EditorConfig for VS Code

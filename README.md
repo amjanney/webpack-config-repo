@@ -1,4 +1,6 @@
-## 从0-1配置webpack
+## 从0-1配置webpack基础项目
 
-https://juejin.cn/post/6844904055840440334#heading-8
+启动一个react项目
+
+支持less，jsx
 
